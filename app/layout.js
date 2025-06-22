@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Portfolio of Tehseen Ahmed - Software Developer",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "Hi, I’m Tehseen – part iOS wizard, part data detective. By day, I design sleek, intuitive iOS apps using Swift, MVVM, and the magic of UI/UX. By night, I crunch numbers like a spreadsheet superhero, using Python, SQL, and a dash of Numpy to turn chaos into clean, insightful data. I’ve built apps that don’t just work—they wow. And I’ve dug deep into datasets big enough to scare most laptops.Armed with a Master’s in Big Data, a Kaggle and IBM certifications, and a few too many cups of coffee, I’m obsessed with crafting efficient, elegant solutions—whether that’s a predictive model or an app that even your gran could use. Always curious, a little caffeine-fuelled, and up for a challenge",
 };
 
 export default function RootLayout({ children }) {
